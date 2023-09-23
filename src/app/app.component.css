@@ -1,0 +1,11 @@
+.body-cards{
+  flex: 1;
+  flex-wrap: wrap;
+  display: flex;
+  gap: 20px;
+  padding: 20px 40px;
+}
+
+.item-card{
+  flex: 1 1 200px;
+}

@@ -1,0 +1,12 @@
+.menu{
+  padding-left: 30px;
+  background-color: black;
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+.menu h1{
+  color: white;
+  font-size: 30px;
+}

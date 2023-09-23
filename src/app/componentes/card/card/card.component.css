@@ -1,0 +1,17 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  border: 1px solid cadetblue;
+  border-radius: 12px;
+  padding: 12px
+}
+
+.card h4{
+  height: 50px;
+}
+
+.card:hover{
+  background-color: #accee5;
+  cursor: pointer;
+}
